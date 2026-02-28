@@ -1,4 +1,4 @@
-# EmotionDetection App
+# oaqjp-final-project-emb-ai-EmotionDetection App
 
 A Python web application that detects emotions in text using the Watson NLP EmotionPredict library, deployed via Flask.
 
